@@ -6,12 +6,11 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-
 # python magic
 
 ## python magic
 
-{% highlight pycon %}
+{% highlight python linenos %}
 def test(foo):
     bar = foo +3
     return bar
