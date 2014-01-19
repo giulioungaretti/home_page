@@ -13,8 +13,8 @@ tagline: words
 author :
   name : Giulio Ungaretti
   email : blah@email.test
-  github : username
-  twitter : username
+  github : https://github.com/giulioungaretti
+  twitter : giulioungaretti
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
