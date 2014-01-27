@@ -4,6 +4,8 @@ title: index
 tagline: welcome
 ---
 {% include JB/setup %}
+## me
+![This is me]({{ site.url }}/assets/me.jpeg)
 
 ## Last Posts
 <ul >
