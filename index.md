@@ -4,7 +4,8 @@ title: index
 tagline: welcome
 ---
 {% include JB/setup %}
-## me
+## Me
+Hi, I am Giulio. And I love IPython.
 ![This is me]({{ site.url }}/assets/me.jpeg)
 
 ## Last Posts
@@ -16,12 +17,6 @@ tagline: welcome
     {% endfor %}
 </ul>
 
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
 
 ## All Posts
 
@@ -31,7 +26,5 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
   {% endfor %}
 </ul>
 
-## To-Do
-a lot !
 
 
