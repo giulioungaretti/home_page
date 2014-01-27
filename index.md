@@ -4,8 +4,10 @@ title: index
 tagline: welcome
 ---
 {% include JB/setup %}
-## Me
+# Me
 Hi, I am Giulio. And I love IPython.
+
+
 ![This is me]({{ site.url }}/assets/me.jpeg)
 
 ## Last Posts
